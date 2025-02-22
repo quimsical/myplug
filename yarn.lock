@@ -2042,9 +2042,9 @@ has@^1.0.3:
     function-bind "^1.1.1"
 
 html-tag-js@^1.1.22:
-  version "1.1.22"
-  resolved "https://registry.yarnpkg.com/html-tag-js/-/html-tag-js-1.1.22.tgz#0aabe1d186b2773e34881433e04abf2e304dcbe5"
-  integrity sha512-wFvtPfXZIfSLlwOjbpNuVqAkD0ZyxdN69qMbuqHNmsoUpvAfTt+o2upk/C6nWFyN4OCUryu0h5Neo6dNuNWS6Q==
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/html-tag-js/-/html-tag-js-1.9.2.tgz#48ca68690607abce671b345c82c006ac0a7ca1b5"
+  integrity sha512-ZNu/3YadTjaeO02IBIu2Aq4+QXqfzzVR10Spu9SCm05pWRcrESwYer98US3l4jRTystahfIZVLviTGRqdQ+Gjw==
 
 http-auth@3.1.x:
   version "3.1.3"
